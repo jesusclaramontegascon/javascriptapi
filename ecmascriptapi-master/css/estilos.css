@@ -1,0 +1,29 @@
+ .cajetin1{
+  background-color: #1cd9e6;
+border-radius: 1px 1px 1px 1px;
+-moz-border-radius: 1px 1px 1px 1px;
+-webkit-border-radius: 1px 1px 1px 1px;
+border: 1px solid #eeeeee;
+color:#ffffff;
+}
+
+ .cajetin1:hover{
+  background-color: #F6CECB;
+
+color:#ffffff;
+}
+
+ .bd-placeholder-img {
+        font-size: 1.125rem;
+        text-anchor: middle;
+        -webkit-user-select: none;
+        -moz-user-select: none;
+        -ms-user-select: none;
+        user-select: none;
+      }
+
+      @media (min-width: 768px) {
+        .bd-placeholder-img-lg {
+          font-size: 3.5rem;
+        }
+
